@@ -1,0 +1,28 @@
+body{
+background-image: url("background1.jpg");
+text-align: center;
+}
+
+.knobs{
+    font-family: 'Comfortaa', cursive;
+    background-color: rgb(83, 89, 178);
+    border-radius: 15px;
+    color: aliceblue;
+}
+
+h3{
+    font-family: 'Comfortaa', cursive;
+    color: rgb(83, 89, 178);
+}
+
+h1{
+    font-family: 'Fascinate Inline', cursive;
+    color:rgb(83, 89, 178);
+}
+
+h4{
+    font-family: 'Comfortaa', cursive;
+    color: rgb(192, 198, 233);
+    position: sticky;
+    
+}
